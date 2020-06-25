@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  ul{
+    list-style: none;
+  }
+}
+
+section {
+  max-width: 800px;
+  margin: 50px auto;
+}
